@@ -39,7 +39,7 @@ It serves as a digital platform to showcase:
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live Demo (Only for Mobile View)
 
 👉 [View the Website](https://hksfest.netlify.app/)  
 
