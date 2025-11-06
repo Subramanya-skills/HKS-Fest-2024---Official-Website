@@ -47,7 +47,7 @@ It serves as a digital platform to showcase:
 
 ## 📸 Project Preview
 
-![HKS Fest Banner](hksfest/images/artists/Abhyudhaya 2024 Poster-2.jpg)
+![HKS Fest Banner](images/artists/Abhyudhaya 2024 Poster-2.jpg)
 
 ---
 
